@@ -7,7 +7,7 @@
         "annotations": {
             "name": "hexboard",
             "description": "Hexboard Demo",
-            "provider": "Red Hat Summit 2015 - JBoss Keynote demo team",
+            "provider": "Red Hat Forum Mx 2017",
             "iconClass": "icon-nodejs",
             "tags": "instant-app,nodejs"
         }
@@ -30,7 +30,7 @@
         },
         {
             "description": "The total number of hexagons (containers) to display in the UI",
-            "value": "micro",
+            "value": "medium",
             "name": "HEXBOARD_SIZE"
         },
         {
@@ -100,7 +100,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "http://github.com/2015-Middleware-Keynote/sketchpod"
+                        "uri": "http://github.com/jorgecanoc/sketchpod"
                     }
                 },
                 "strategy": {
@@ -273,7 +273,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "http://github.com/2015-Middleware-Keynote/hexboard",
+                        "uri": "http://github.com/jorgecanoc/hexboard",
                         "ref": "master"
                     }
                 },
