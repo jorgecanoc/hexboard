@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200mm"
-   height="10mm"
-   viewBox="0 0 708.66142 35.43307"
+   width="250mm"
+   height="12mm"
+   viewBox="0 0 885.82677 42.519684"
    id="svg3864"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41"
-     inkscape:cx="-84.708992"
+     inkscape:cx="388.1543"
      inkscape:cy="700.43357"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,20 +53,20 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1016.9291)">
+     transform="translate(0,-1009.8425)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="58.279335"
-       y="1048.2257"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51.254944"
+       y="1051.1038"
        id="text3872"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan3874"
-         x="58.279335"
-         y="1048.2257"
-         style="fill:#ffffff">RED HAT FORUM 2017 CDMX</tspan></text>
+         x="51.254944"
+         y="1051.1038"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">RED HAT FORUM 2017 CDMX</tspan></text>
   </g>
 </svg>
